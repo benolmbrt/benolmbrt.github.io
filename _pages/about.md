@@ -19,6 +19,10 @@ My work focuses on Uncertainty Quantification techniques in order to increase th
 - Predictive intervals using Conformal Prediction
 - Risk control for medical image segmentation
 
+As side projects, I also worked on the following topics:
+- Unsupervised Anomaly Detection using reconstruction Autoencoders
+- White Matter Hyperintensities synthesis using 3D Diffusion models
+
 <p align="center">
   <img src="/images/unc_short.png">
 </p>

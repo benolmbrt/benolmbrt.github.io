@@ -20,7 +20,7 @@ My work focuses on Uncertainty Quantification techniques in order to increase th
 - Risk control for medical image segmentation
 
 <p align="center">
-  <img src="/images/unc.png">
+  <img src="/images/unc_short.png">
 </p>
 
 Short bio

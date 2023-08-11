@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in Image & Data, University of Strasbourg, 2020
-* Healthy Engineering Degree, Télecom Physique Strasbourg, 2020
+* Biomedical Engineering Degree, Télecom Physique Strasbourg, 2020
 * Ph.D on _**Uncertainty for Deep Learning based medical image segmentation**_, Grenoble Alpes University, 2024 (expected)
 
 Work experience

@@ -78,10 +78,10 @@ analytics:
 # Site Author
 author:
   name             : "Benjamin Olivier Lambert"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "IMG-20220922-WA0010 copie.jpg"
+  bio              : "Deep Learning Researcher"
   location         : "Grenoble, France"
-  employer         :
+  employer         : "Pixyl & Grenoble Institut des Neurosciences"
   googlescholar    : "https://scholar.google.com/citations?user=POf5NBEAAAAJ&hl=fr&authuser=1"
   email            : "benjamin.lambertpro97@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Benjamin-Lambert-2"
@@ -98,7 +98,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "www.linkedin.com/in/benjamin-lambert-075035175"
+  linkedin         : "benjamin-lambert-075035175"
   orcid            : "https://orcid.org/0009-0008-5661-0939"
   pinterest        :
   soundcloud       :

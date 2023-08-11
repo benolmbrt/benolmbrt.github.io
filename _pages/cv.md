@@ -11,31 +11,43 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Image & Data, University of Strasbourg, 2020
+* Healthy Engineering Degree, Télecom Physique Strasbourg, 2020
+* Ph.D on _**Uncertainty for Deep Learning based medical image segmentation**_, Grenoble Alpes University, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* October 2020-May 2021: Research Enginner
+  * Pixyl 
+  * Duties included:
+      - Development of DL models for classification/segmentation of 3D MRI
+      - Calibration of neural networks probability estimates
+      - Development of Data Augmentation tools 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Mars-August 2020: Graduation Engineering project
+  * Pixyl 
+  * Duties included:
+      - Deep Learning approaches for unsupervised anomaly detection in 3D medical images
+        
+* May-August 2019: Research Internship
+  * Amsterdam AMC
+  * Duties included:
+    - Development of a Generative Adversarial Network (GAN) for CT to CTA translation
+    - Application to brain vessel segmentation
+   
+* June-July 2018: Engineering Internship
+  * Amiens-Picardie University Hospital - Nuclear Medicine Department
+  * Duties included:
+    - Implementation of a User-Interface for PET image reconstruction
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Deep Learning / Machine Learning 
+  * Python, PyTorch, Pytorch Lightning, TorchIO, sklearn, Deep Graph Library, MONAI
+    
+* Medical Image processing
+  * Nibabel, AnTS, c3d 
+  
 Publications
 ======
   <ul>{% for post in site.publications %}

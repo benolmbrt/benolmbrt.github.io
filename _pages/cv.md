@@ -17,26 +17,22 @@ Education
 
 Work experience
 ======
-* October 2020-May 2021: Research Enginner
-  * Pixyl 
+* October 2020-May 2021: Research Enginner, Pixyl
   * Duties included:
       - Development of DL models for classification/segmentation of 3D MRI
       - Calibration of neural networks probability estimates
       - Development of Data Augmentation tools 
 
-* Mars-August 2020: Graduation Engineering project
-  * Pixyl 
+* Mars-August 2020: Graduation Engineering project, Pixyl
   * Duties included:
       - Deep Learning approaches for unsupervised anomaly detection in 3D medical images
         
-* May-August 2019: Research Internship
-  * Amsterdam AMC
+* May-August 2019: Research Internship, Amsterdam AMC, Deparment of Biomedical Engineering & Physics
   * Duties included:
     - Development of a Generative Adversarial Network (GAN) for CT to CTA translation
     - Application to brain vessel segmentation
    
-* June-July 2018: Engineering Internship
-  * Amiens-Picardie University Hospital - Nuclear Medicine Department
+* June-July 2018: Engineering Internship, Amiens-Picardie University Hospital, Nuclear Medicine Department
   * Duties included:
     - Implementation of a User-Interface for PET image reconstruction
   

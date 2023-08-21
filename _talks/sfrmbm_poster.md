@@ -1,6 +1,5 @@
 ---
 title: "Poster on Safety-Net: Certainty map for MS lesions segmentation (french)"
-collection: talks
 type: "Poster"
 permalink: /talks/iabm.md
 venue: "SFRMBM 2023 "

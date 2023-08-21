@@ -1,4 +1,3 @@
-
 ---
 title: "Poster on Leveraging 3D information in unsupervised brain MRI segmentation"
 type: "Poster"

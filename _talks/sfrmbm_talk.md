@@ -1,6 +1,5 @@
 ---
 title: "Powerpitch on Safety-Net: Certainty map for MS lesions segmentation (french)"
-collection: talks
 type: "Talk"
 permalink: /talks/iabm.md
 venue: "SFRMBM 2023 "

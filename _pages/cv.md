@@ -13,10 +13,17 @@ Education
 ======
 * M.S. in Image & Data, University of Strasbourg, 2020
 * Biomedical Engineering Degree, Télecom Physique Strasbourg, 2020
-* Ph.D on _**Uncertainty Quantification for Deep Learning based medical image segmentation**_, Grenoble Alpes University, 2024 (expected)
+* Ph.D on _**Uncertainty Quantification for Deep Learning based medical image segmentation**_, Grenoble Alpes University, May 2024
 
 Work experience
 ======
+
+* May 2021-May 2024: PhD Student, Pixyl & Grenoble Institut des Neurosciences
+  * Duties included:
+      - Development of DL tools for uncertainty quantification in medical image processing
+      - Medical image synthesis using generative models
+      - Integration of the tools in a commercialized software 
+      
 * October 2020-May 2021: Research Enginner, Pixyl
   * Duties included:
       - Development of DL models for classification/segmentation of 3D MRI

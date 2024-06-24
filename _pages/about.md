@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "Benjamin Olivier Lambert"
+excerpt: "Benjamin Olivier Lambert, PhD"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,7 +13,7 @@ redirect_from:
 </p>
 
 
-I am currently pursuing a PhD on the topic of _**Uncertainty Quantification for medical image segmentation**_ at [Pixyl](https://pixyl.ai/) and [Grenoble Institut des Neurosciences](https://neurosciences.univ-grenoble-alpes.fr/en/) (GIN). I am supervised by [Michel Dojat](https://neurosciences.univ-grenoble-alpes.fr/fr/annuaire/m-michel-dojat-621497.kjsp) (INSERM), [Florence Forbes](http://mistis.inrialpes.fr/people/forbes/) (INRIA, STATIFY) and [Senan Doyle](https://www.linkedin.com/in/senandoyle/) (Pixyl). 
+I am an AI researcher specialized in medical image processing. I recently completed my PhD on the topic of _**Uncertainty Quantification for medical image segmentation**_ at [Pixyl](https://pixyl.ai/) and [Grenoble Institut des Neurosciences](https://neurosciences.univ-grenoble-alpes.fr/en/) (GIN). I was supervised by [Michel Dojat](https://neurosciences.univ-grenoble-alpes.fr/fr/annuaire/m-michel-dojat-621497.kjsp) (INSERM), [Florence Forbes](http://mistis.inrialpes.fr/people/forbes/) (INRIA, STATIFY) and [Senan Doyle](https://www.linkedin.com/in/senandoyle/) (Pixyl). 
 
 My work focuses on Uncertainty Quantification techniques in order to increase the robustness and reliability of automated segmentation models. My research is divided in several areas: 
 

@@ -18,6 +18,10 @@ Education
 Work experience
 ======
 
+* Since September 2024: Machine Learning Scientific Officer, Pixyl
+  * Duties include:
+      - Research and development of medical image analysis software using Deep Learning
+      
 * May 2021-May 2024: PhD Student, Pixyl & Grenoble Institut des Neurosciences
   * Duties included:
       - Development of DL tools for uncertainty quantification in medical image processing

@@ -15,6 +15,15 @@ redirect_from:
 
 I am an AI researcher specialized in medical image processing. I recently completed my PhD on the topic of _**Uncertainty Quantification for medical image segmentation**_ at [Pixyl](https://pixyl.ai/) and [Grenoble Institut des Neurosciences](https://neurosciences.univ-grenoble-alpes.fr/en/) (GIN). I was supervised by [Michel Dojat](https://neurosciences.univ-grenoble-alpes.fr/fr/annuaire/m-michel-dojat-621497.kjsp) (INSERM), [Florence Forbes](http://mistis.inrialpes.fr/people/forbes/) (INRIA, STATIFY) and [Senan Doyle](https://www.linkedin.com/in/senandoyle/) (Pixyl). 
 
+My thesis can be found here (click on the image):
+
+<p align="center">
+    <a href=https://theses.fr/2024GRALS011>
+  <img width=800 src="/images/banner_phd.jpg">
+    </a>
+</p>
+
+
 My work focuses on Uncertainty Quantification techniques in order to increase the robustness and reliability of automated segmentation models. My research is divided in several areas: 
 
 - Probability calibration 

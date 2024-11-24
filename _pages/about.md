@@ -19,7 +19,7 @@ My thesis can be found here (click on the image):
 
 <p align="center">
     <a href=https://theses.fr/2024GRALS011>
-  <img width=800 src="/images/banner_phd.pdf">
+  <img width=800 src="/images/banner_phd.png">
     </a>
 </p>
 

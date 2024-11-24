@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Benjamin Olivier Lambert"
   avatar           : "portrait.png"
-  bio              : "Deep Learning Researcher, PhD"
+  bio              : "Machine Learning Scientific Officer at Pixyl, PhD"  #Deep Learning Researcher
   location         : "Brittany, France"
   #employer         : "Pixyl & GIN"
   googlescholar    : "https://scholar.google.com/citations?user=POf5NBEAAAAJ&hl=fr&authuser=1"
